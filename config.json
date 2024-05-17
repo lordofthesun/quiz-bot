@@ -1,0 +1,21 @@
+{
+  "bot": {
+    "name": "Quiz!",
+    "description": "Бот, который делает викторины для вас на различные темы!",
+    "developerId": "619036853030617099",
+    "botId": "1124977093546082354",
+    "devBotId": "619036853030617099"
+  },
+  "links": {
+    "devGithub": "",
+    "botGithub": "",
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=1124977093546082354&permissions=1085284936945&response_type=code&redirect_uri=https%3A%2F%2Fquizdiscordbot.glitch.me%2Fthankyou.html&scope=bot+applications.commands+guilds",
+    "support": "https://discord.gg/ptje9CeVS8"
+  },
+  "emojis": {
+    "category": {},
+    "difficulty": {},
+    "github": "",
+    "discordJs": ""
+  }
+}
